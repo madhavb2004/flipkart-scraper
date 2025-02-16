@@ -3,4 +3,4 @@
                     Important libraries used in this code:
                     1)beautifulsoup-used for webscraping
                     2)pandas-used for writing,editing,reading csv files
-                    This project has simple used lines of code and very easy to use.
+                    This project has simple used lines of code and  easy to use.
